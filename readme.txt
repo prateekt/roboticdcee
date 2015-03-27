@@ -1,6 +1,6 @@
 --Introduction--
 
-The Robotic DCEE open source project aims to provide software support for robotic sensor networks. The open source
+The Robotic DCEE open source project aims to provide software support for robotic sensor networks.The open source
 project provides a software implementation of the DCEE framework. The codebase was built as a research platform by 
 the USC Teamcore group.
 
